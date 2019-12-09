@@ -1,4 +1,4 @@
-package com.mzh.scala
+package com.mzh.scala.function
 
 import scala.io.StdIn
 

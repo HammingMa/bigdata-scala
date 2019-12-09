@@ -1,4 +1,4 @@
-package com.mzh.scala
+package com.mzh.scala.function
 
 object Function2 {
   def main(args: Array[String]): Unit = {

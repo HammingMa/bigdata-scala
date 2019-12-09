@@ -1,7 +1,7 @@
-package com.mzh.scala
+package com.mzh.scala.function
 
 import scala.collection.immutable
-import scala.util.control.Breaks._
+import scala.util.control.Breaks.{break, breakable}
 
 object For {
   def main(args: Array[String]): Unit = {

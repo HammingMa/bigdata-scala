@@ -1,4 +1,4 @@
-package com.mzh.scala
+package com.mzh.scala.function
 
 object Print3 {
   def main(args: Array[String]): Unit = {

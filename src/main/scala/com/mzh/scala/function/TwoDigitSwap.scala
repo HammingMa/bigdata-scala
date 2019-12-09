@@ -1,6 +1,4 @@
-package com.mzh.scala
-
-//不使用变量交换两个数的值
+package com.mzh.scala.function
 
 object TwoDigitSwap {
   def main(args: Array[String]): Unit = {
